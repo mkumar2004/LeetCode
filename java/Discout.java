@@ -1,3 +1,5 @@
+// Write a program discount calculation on bill amount. 
+// The bill amount is Rs:5,000 and give discount (500 to 100) using Multiple if statement without else statement.
 public class Discout {
     public static void main(String[] args) {
 
